@@ -1,2 +1,3 @@
-# goit-markup-hw-01
-HW1
+# Squirrels are nice:)
+
+Squirrel eats nuts in the park. A bag with walnuts - a gift for a squirrel.
